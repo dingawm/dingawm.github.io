@@ -1,6 +1,6 @@
 # Site settings
 title: Dingawm
-email: dingawm@hotmail.com.com
+email: dingawm@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   羁绊。
 baseurl: "" # the subpath of your site, e.g. /blog/

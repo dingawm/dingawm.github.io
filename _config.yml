@@ -1,6 +1,6 @@
 # Site settings
 title: Dingawm
-email: dingawm@hotmai.com.com
+email: dingawm@hotmail.com.com
 description: > # this means to ignore newlines until "baseurl:"
   羁绊。
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -15,13 +15,13 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: Cool Option 1
-    link: www.myawesomelink.com
+    link: 
   option2:
     name: Cool Option 2
-    link: www.myawesomelink.com
+    link: 
   option3:
     name: Cool Option 3
-    link: www.myawesomelink.com
+    link: 
 
 disqus: true
 disqus_shortname: 'gdgmanagua'
